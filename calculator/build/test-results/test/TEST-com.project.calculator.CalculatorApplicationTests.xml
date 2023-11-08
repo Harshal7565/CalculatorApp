@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-08T18:22:12" hostname="ENCDXPAHDLT0084" time="0.683">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.project.calculator.CalculatorApplicationTests" time="0.683"/>
+  <system-out><![CDATA[23:52:11.059 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.project.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:52:11.159 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.project.calculator.CalculatorApplication for test class com.project.calculator.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.5)
+
+2023-11-08T23:52:11.614+05:30  INFO 2920 --- [    Test worker] c.p.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.4.1 with PID 2920 (started by Harshal.Gujale in C:\Users\Harshal.Gujale\Desktop\calculator)
+2023-11-08T23:52:11.614+05:30  INFO 2920 --- [    Test worker] c.p.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-11-08T23:52:12.807+05:30  INFO 2920 --- [    Test worker] c.p.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 1.446 seconds (process running for 2.683)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
